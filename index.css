@@ -10,7 +10,7 @@ body {
   }
   footer {
     color: #DBEDF3;
-    font-family: sans-serif;
+    font-family: fantasy;
   }
   .w {
   background-image: url("images/tom1.png");
@@ -72,9 +72,6 @@ body {
     }
     footer{
         font-size: large;
-        font-family: fantasy;
-      padding-top:40px;
-      
-        
+      padding-top:40px;   
     }
   }
